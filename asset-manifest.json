@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/react-cinema/static/css/main.073c9b0a.css",
+    "main.js": "/react-cinema/static/js/main.5d62912b.js",
+    "static/js/787.835b0af2.chunk.js": "/react-cinema/static/js/787.835b0af2.chunk.js",
+    "static/media/trufo.gif": "/react-cinema/static/media/trufo.abc6f7049a91493d029e.gif",
+    "index.html": "/react-cinema/index.html",
+    "main.073c9b0a.css.map": "/react-cinema/static/css/main.073c9b0a.css.map",
+    "main.5d62912b.js.map": "/react-cinema/static/js/main.5d62912b.js.map",
+    "787.835b0af2.chunk.js.map": "/react-cinema/static/js/787.835b0af2.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.073c9b0a.css",
+    "static/js/main.5d62912b.js"
+  ]
+}
